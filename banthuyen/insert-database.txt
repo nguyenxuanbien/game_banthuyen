@@ -1,0 +1,399 @@
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    0    '','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    1    '','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    2    '','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    3    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    4    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    5    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    6    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    7    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    8    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    9    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    10    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    11    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    12    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    13    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    14    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    15    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    16    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    17    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    18    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    19    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    20    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    21    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    22    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    23    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    24    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    25    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    26    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    27    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    28    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    29    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    30    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    31    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    32    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    33    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    34    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    35    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    36    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    37    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    38    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    39    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    40    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    41    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    42    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    43    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    44    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    45    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    46    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    47    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    48    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    49    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    50    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    51    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    52    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    53    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    54    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    55    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    56    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    57    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    58    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    59    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    60    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    61    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    62    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    63    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    64    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    65    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    66    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    67    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    68    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    69    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    70    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    71    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    72    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    73    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    74    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    75    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    76    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    77    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    78    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    79    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    80    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    81    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    82    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    83    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    84    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    85    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    86    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    87    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    88    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    89    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    90    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    91    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    92    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    93    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    94    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    95    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    96    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    97    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    98    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    99    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    100    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    101    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    102    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    103    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    104    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    105    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    106    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    107    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    108    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    109    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    110    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    111    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    112    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    113    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    114    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    115    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    116    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    117    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    118    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    119    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    120    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    121    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    122    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    123    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    124    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    125    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    126    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    127    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    128    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    129    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    130    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    131    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    132    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    133    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    134    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    135    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    136    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    137    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    138    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    139    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    140    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    141    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    142    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    143    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    144    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    145    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    146    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    147    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    148    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    149    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    150    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    151    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    152    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    153    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    154    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    155    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    156    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    157    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    158    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    159    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    160    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    161    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    162    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    163    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    164    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    165    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    166    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    167    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    168    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    169    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    170    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    171    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    172    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    173    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    174    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    175    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    176    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    177    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    178    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    179    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    180    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    181    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    182    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    183    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    184    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    185    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    186    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    187    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    188    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    189    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    190    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    191    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    192    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    193    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    194    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    195    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    196    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    197    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    198    ','0','1'); 
+
+INSERT INTO gamestatus (id_square, SHIPVALUE, ROOM) VALUES ('    199    ','0','1'); 

@@ -1,0 +1,43 @@
+<?php
+session_start();
+if(!isset($_SESSION["User"])) { //chua dang nhap
+	header('Location: log/login.php');
+}
+
+if(!isset($_SESSION["Room"])) { //chua dang nhap
+	header('Location: room/select_room.php');
+}
+
+if (isset($_SESSION["User"]) && isset($_SESSION["Room"])) {
+?>
+<!DOCTYPE html>
+<html>
+<body>
+<script src="matrix.js"></script> 
+<div>
+<span id="container1"></span>
+<span>---------------------</span>         
+<span id="container2"></span>
+</div>
+<div>
+<span id="coor" style="color:Tomato; font-size:300%;text-align:center;"></span>
+</div>
+<script type="text/javascript">
+
+	var intervalId;
+	var ajax_call;
+
+	var room="room=" + <?php echo json_encode($_SESSION['Room']); ?>;
+
+	var container1 = document.getElementById("container1");
+    container1.appendChild(grid(10, 70, 700, "blue", "coor"));
+    console.log(container1);
+    var container2 = document.getElementById("container2");
+    container2.appendChild(grid(10, 70, 700, "blue", "coor"));
+</script>
+<a href="room/select_room.php?room=null"><p>Exit room</p></a>
+<a href="log/logout.php"><p>Log out</p></a>
+</body>
+</html>
+
+<?php } ?>
